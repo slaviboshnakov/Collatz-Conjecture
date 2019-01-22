@@ -1,0 +1,7 @@
+C:\Users\Slavi\source\repos\Beginner Projects\Beginner-Projects\Collatz Conjecture\Collatz Conjecture Algorithm\Collatz Conjecture Algorithm\bin\Debug\Collatz Conjecture Algorithm.exe.config
+C:\Users\Slavi\source\repos\Beginner Projects\Beginner-Projects\Collatz Conjecture\Collatz Conjecture Algorithm\Collatz Conjecture Algorithm\bin\Debug\Collatz Conjecture Algorithm.exe
+C:\Users\Slavi\source\repos\Beginner Projects\Beginner-Projects\Collatz Conjecture\Collatz Conjecture Algorithm\Collatz Conjecture Algorithm\bin\Debug\Collatz Conjecture Algorithm.pdb
+C:\Users\Slavi\source\repos\Beginner Projects\Beginner-Projects\Collatz Conjecture\Collatz Conjecture Algorithm\Collatz Conjecture Algorithm\obj\Debug\Collatz Conjecture Algorithm.csprojAssemblyReference.cache
+C:\Users\Slavi\source\repos\Beginner Projects\Beginner-Projects\Collatz Conjecture\Collatz Conjecture Algorithm\Collatz Conjecture Algorithm\obj\Debug\Collatz Conjecture Algorithm.csproj.CoreCompileInputs.cache
+C:\Users\Slavi\source\repos\Beginner Projects\Beginner-Projects\Collatz Conjecture\Collatz Conjecture Algorithm\Collatz Conjecture Algorithm\obj\Debug\Collatz Conjecture Algorithm.exe
+C:\Users\Slavi\source\repos\Beginner Projects\Beginner-Projects\Collatz Conjecture\Collatz Conjecture Algorithm\Collatz Conjecture Algorithm\obj\Debug\Collatz Conjecture Algorithm.pdb
